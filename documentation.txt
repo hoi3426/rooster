@@ -1,0 +1,31 @@
+Website is gemaakt om werkzaamheden en wijzigingen in te plannen zodat klanten beter weten wanneer 
+er aan hun werkzaamheden word gewerkt.
+
+Website is gemaakt met PHP,jS,CSS,SQL En HTML
+
+Inloggegevens admin account:
+
+Gebruikersnaam: admin
+Wachtwoord: admin12
+
+Inloggegevens database:
+
+Gebruikersnaam: Admin
+Wachtwoord: #_Login-DB
+
+Incidenten die niet zijn opgelost:
+
+1 Na het invullen van het datefield kwam de data niet goed in de database te staan
+
+Incidenten die zijn opgelost:
+
+1 Bij het verwijderen van een record werden 2 record tegelijk verwijderd
+
+2 Er kunnen datums die al geweest zijn worden ingevuld
+
+3 Opslaan van het datefield zonder het field in te vullen zorgt voor een record zonder data
+
+
+
+
+
